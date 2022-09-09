@@ -1,3 +1,9 @@
+Learning about frameworks:
+This is a small exercise for creating React application.
+App asks to fill in age and calculates heart rate limits based on age.
+_____________
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
